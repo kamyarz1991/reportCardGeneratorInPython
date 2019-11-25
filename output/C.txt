@@ -1,0 +1,11 @@
+Student: 3, Name: C
+Total Average:		72.03333333333335
+
+		Course: Biology, Teacher: Mr. D
+		Final Grade: 90.1
+
+		Course: History, Teacher:  Mrs. P
+		Final Grade: 51.8
+
+		Course: Math, Teacher:  Mrs. C
+		Final Grade: 74.2

@@ -1,0 +1,8 @@
+Student: 2, Name: B
+Total Average:		62.150000000000006
+
+		Course: Biology, Teacher: Mr. D
+		Final Grade: 50.1
+
+		Course: Math, Teacher:  Mrs. C
+		Final Grade: 74.2
