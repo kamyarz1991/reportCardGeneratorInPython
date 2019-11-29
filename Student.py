@@ -69,7 +69,8 @@ class Student:
 
         return sum/100
 
-    def csvReader(self, filePath):
+    @staticmethod
+    def csvReader(filePath):
         with open(filePath) as csv_file:
             CSV_Reader = csv.reader(csv_file, delimiter=',')
             lin_cnt = 0

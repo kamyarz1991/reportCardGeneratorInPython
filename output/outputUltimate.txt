@@ -1,5 +1,5 @@
 Student: 1, Name: A
-Total Average:		72.03333333333335
+Total Average:		72.03333333333332
 
 		Course: Biology, Teacher: Mr. D
 		Final Grade: 90.1
@@ -20,7 +20,7 @@ Total Average:		62.150000000000006
 		Final Grade: 74.2
 
 Student: 3, Name: C
-Total Average:		72.03333333333335
+Total Average:		72.03333333333332
 
 		Course: Biology, Teacher: Mr. D
 		Final Grade: 90.1
